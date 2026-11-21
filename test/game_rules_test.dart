@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_083_penalty_challenge/core/arcade.dart';
-import 'package:game_083_penalty_challenge/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_083_penalty_challenge/game/rules.dart';
 import 'package:game_083_penalty_challenge/game/shot_engine.dart';
 
